@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NicholasPerna
 - 👀 I’m interested in Software Design & Engineering.
-- 🌱 I’m currently working on obtaining a Comp TIA Cert. 
 - 📫 How to reach me : Email - NicholasRPerna@gmail.com 
                         Phone - 301 542 3610
 
